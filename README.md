@@ -2,4 +2,4 @@ Readme file
 
 License:
 
-Apache
+Apache License 2.0
